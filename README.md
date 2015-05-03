@@ -9,3 +9,4 @@ Things to write about:
 - [ ] DDos -> Cloudfare blogs.
 - [ ] Endian
 - [ ] SQL injection
+- [ ] Protocols, ie wire protrocol
